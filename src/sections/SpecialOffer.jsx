@@ -21,7 +21,7 @@ const SpecialOffer = () => {
           <p className="mt-6 lg:max-w-lg info-text mb-5">Lorem, ipsum dolor sit amet consectetur adipisiciniciatis nobis it nihil a voluptate reiciendis, consequuntur dolor veritatis?</p>
         <div className="mt-11 flex flex-wrap gap-4 ">
           <Button label="Show now" iconURL={arrowRight}/>
-          <Button label="Learn more" backgroundColor="bg-white" borderColor=""/>
+          <Button label="Learn more" backgroundColor="bg-white" borderColor="border-slate-gray" textColor="text-slate-gray" />
         </div>
         </div>
       </div>
